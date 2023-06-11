@@ -1,0 +1,42 @@
+body{
+	background-image: url(log.jpg);
+}
+#form{
+	margin: 20px;
+	background-color: darkblue;
+	margin-left: 20%;
+	height: 1200px;
+	width: 50%;
+}
+.regitration{
+	background-color: gold;
+	text-decoration: blink;
+	text-align: center;
+	font-size: 55px;
+	font-family: Agency FB ;
+	font-weight: 700px;
+	border-bottom-style: ridge;
+}
+.text{
+	height: 43px;
+
+}
+label{
+	font-size: 18px;
+}
+.btn-primary{
+	border-radius: 0px;
+	padding: 10px;
+	width: 40%;
+}
+.btn-danger{
+	padding: 20px;
+	margin: 20px;
+	border-radius: 0px;
+	padding: 10px;
+	width: 40%;
+}
+.form-group{
+	margin: 10px;
+	color: beige;
+}
